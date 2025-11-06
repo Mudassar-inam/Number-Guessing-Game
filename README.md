@@ -28,7 +28,7 @@ The project uses:
 
 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/number-guessing-game-python.git
+git clone https://github.com/Mudassar-inam/Number-Guessing-Game.git
 ```
 
 Step 2: Navigate to Project Directory
