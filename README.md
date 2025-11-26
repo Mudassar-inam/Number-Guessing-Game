@@ -11,10 +11,7 @@ Before you begin, ensure you have the following installed:
 ```bash
     python --version
 ```
-    or
-```bash
-    python3 --version
-```
+
   - If not installed, download from: [python.org](https://www.python.org/downloads/)
 
 📦 Required Packages
